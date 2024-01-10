@@ -1,0 +1,23 @@
+@media (max-width:480px){
+header{
+    padding: 9px 20px;
+}
+.burger{
+    font-size: 20px;
+}
+
+.responsive_header_logo{
+    width: 90px;
+    height: 65px;
+}
+
+.cart_text {
+    font-size: 14px;
+}
+.fa-cart-shopping {
+    width: 20px;
+    height: 20px;
+}
+
+}
+

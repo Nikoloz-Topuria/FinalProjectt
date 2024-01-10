@@ -1,0 +1,897 @@
+@media (max-width:1205px) {
+    .ArtSection1 {
+        margin-top: -3%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 205px 218px;
+    }
+
+    .ArtSec1SearchContainer {
+        text-align: center;
+    }
+
+    .number-box {
+        align-items: center;
+        justify-content: center;
+    }
+
+}
+
+@media (max-width:1050px) {
+    header {
+        padding: 32px 26px 36px 26px;
+    }
+
+    .home_section4 {
+        width: auto;
+        background-position: center;
+    }
+
+    .home_section2 {
+        padding: 120px 218px;
+    }
+
+    .HomeSection3MainBox {
+        overflow-x: scroll;
+        scrollbar-width: none;
+        justify-content: left;
+    }
+
+    .ArtSection2 {
+        padding: 120px 32px;
+    }
+
+    .RemoveArticle {
+        display: none;
+    }
+
+    article {
+        width: 468px;
+
+    }
+
+    .ArtSection2_image {
+        width: 436px;
+    }
+
+    .ContactSec1 {
+        padding: 160px 492px 160px 32px;
+    }
+}
+
+@media (max-width:1042px) {
+    .home_section2 {
+        padding: 120px 200px;
+    }
+
+
+    .ArtSection2 {
+        padding: 120px 24px;
+    }
+
+    article {
+        width: 336px;
+
+    }
+
+    .ArtSection2_image {
+        width: 304px;
+    }
+}
+
+@media (max-width:1026px) {
+    .ArtSec2CartsBox {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .ContactSection2 {
+        padding: 120px 116px;
+    }
+
+}
+
+@media (max-width:1007px) {
+
+    .home_section2 {
+        padding: 120px 190px;
+    }
+
+    .HomeSec2Image_1 {
+        width: 200px;
+        height: 180px;
+    }
+
+    .HomeSec2Image_2 {
+        width: 200px;
+        height: 180px;
+        ;
+    }
+
+    .HomeSec2Image_3 {
+        width: 200px;
+        height: 180px;
+    }
+
+    .HomeSec2Image_4 {
+        width: 200px;
+        height: 180px;
+    }
+
+    .HomeSec2Button {
+        padding: 4px 15px;
+    }
+
+    .HomeSection2ImagesBox {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media(max-width:980px) {
+    .ContactSection2 {
+        padding: 100px 8px;
+    }
+
+    iframe {
+        width: 600px;
+        height: 240px;
+
+    }
+
+    .ContactSec2Title {
+        font-size: 32px;
+    }
+
+
+    .ContactSec2Text {
+        display: none;
+    }
+
+    .ContactPageContactBox {
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        margin-top: 35%;
+        margin-left: 40%;
+    }
+
+    .CONTACTICON {
+        width: 40px;
+        height: 40px;
+    }
+    .MiddleEmail{
+        margin-top: 1%;
+        margin-inline: 15px;
+    }
+
+}
+
+@media(max-width:940px) {
+    .ArtSection1 {
+        padding: 205px 78px;
+    }
+}
+
+@media (max-width:900px) {
+    footer {
+        padding: 80px 32px;
+    }
+
+    footer .responsive_header_logo {
+        width: 80%;
+        height: 80%;
+    }
+
+
+}
+
+@media (max-width:855px) {
+    .home_section1 {
+        margin-top: -3%;
+    }
+
+    .ContactSec1 {
+        margin-top: -15%;
+    }
+}
+
+
+
+
+
+@media (max-width:855px) {
+    header {
+        padding: 9px 24px;
+    }
+
+    .main_header_logo {
+        display: none;
+    }
+
+    .responsive_header_logo {
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+
+    .burger {
+        display: block;
+        font-size: 25px;
+    }
+
+    .header_nav {
+        background: #B53B1B;
+        position: fixed;
+        /* top: 122.4px; */
+        top: 96px;
+        left: -100%;
+        width: 50%;
+        padding: 25px 143px 25px 20px;
+        transition: .5s linear;
+    }
+
+    .header_ul {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .show {
+        left: 0;
+    }
+
+}
+
+@media (max-width:824px) {
+    .home_section2 {
+        padding: 120px 180px;
+    }
+
+    .HomeSec2Image_1 {
+        width: 180px;
+        height: 162px;
+    }
+
+    .HomeSec2Image_2 {
+        width: 180px;
+        height: 162px;
+
+    }
+
+    .HomeSec2Image_3 {
+        width: 180px;
+        height: 162px;
+    }
+
+    .HomeSec2Image_4 {
+        width: 180px;
+        height: 162px;
+    }
+
+
+
+
+
+}
+
+
+@media (max-width:774px) {
+    .ForResponsiveTitle {
+        line-height: normal;
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .ArtSec1SearchContainer {
+        height: 56px;
+        width: 408px;
+        gap: 59px
+    }
+
+    .ArtSec4SearchBox {
+        margin-left: 10%;
+    }
+}
+
+@media (max-width:761px) {
+
+    .HomeSection1Title {
+        font-size: 30px;
+    }
+
+    .HomeSection1Button {
+        width: 158px;
+        height: 38px;
+        padding: 10px 40px;
+        font-size: 13px;
+        margin-top: 0.5%;
+    }
+
+
+
+    .home_section2 {
+        padding: 6.94% 11.11%;
+
+    }
+
+    .HomeSec2Image_1 {
+        width: 175px;
+        height: 150px;
+    }
+
+    .HomeSec2Image_2 {
+        width: 175px;
+        height: 150px;
+
+    }
+
+    .HomeSec2Image_3 {
+        width: 175px;
+        height: 150px;
+    }
+
+    .HomeSec2Image_4 {
+        width: 175px;
+        height: 150px;
+    }
+
+    .HomeSec2Button {
+        padding: 4px 15px;
+        font-size: 14px;
+    }
+
+    .HomeSec4Title {
+        font-size: 30px;
+
+        margin-left: -2%;
+    }
+
+    .HomeSec4EmailBox {
+        height: 46px;
+        margin-left: -30%;
+
+    }
+
+    .HomeSec4FormBox input {
+        width: 280px;
+        height: 50px;
+        padding: 10px 170px 13px 9px;
+    }
+
+    .HomeSec4FormBox ::placeholder {
+        font-size: 12px;
+    }
+
+    .HomeSec4Button {
+        height: 50px;
+        padding: 13px 20px 13px 21px;
+        font-size: 14px;
+    }
+
+
+    .HomeSection4Box {
+        margin-top: 30%;
+    }
+
+
+    .home_section3 {
+        height: 600px;
+    }
+
+
+    .ArtSection2 {
+        padding: 80px 24px;
+    }
+
+    article {
+        width: 336px;
+
+    }
+
+    .ArtSection2_image {
+        width: 304px;
+    }
+   
+    }
+
+@media(max-width:744px) {
+    .ContactSec1 {
+        padding: 160px 220px 160px 24px;
+    }
+    .ContactSection2 {
+        padding: 60px 10px;
+    }
+    iframe{
+        width:180;
+        height: 160px;
+    }
+    .ContactPageContactBox{
+        margin-top: 23%;
+    }
+
+}
+
+@media(max-width:726px){
+.ContactSec2Title{
+    font-size: 20px;
+}
+
+iframe{
+    width:90px;
+    height: 100px;
+    padding: 10px 1px;
+    margin-top: -5%;
+
+}
+.ContactPageContactBox{
+    margin-top: 95px;
+    margin-left: 57px;
+}
+
+}
+
+@media (max-width:698px) {
+    .home_section2 {
+        padding: 6% 9%;
+    }
+
+    .HomeSec2Image_1 {
+        width: 160px;
+        height: 140px;
+    }
+
+    .HomeSec2Image_2 {
+        width: 160px;
+        height: 140px;
+
+    }
+
+    .HomeSec2Image_3 {
+        width: 160px;
+        height: 140px;
+    }
+
+    .HomeSec2Image_4 {
+        width: 160px;
+        height: 140px;
+    }
+
+    .HomeSection2ImagesBox {
+        margin-top: 20%;
+        gap: 16px;
+    }
+
+    .home_section2 {
+        height: 550px;
+    }
+
+}
+
+@media (max-width:670px) {
+
+    footer {
+        padding: 20px 70px;
+        text-align: center;
+        display: block;
+    }
+
+    .FooterSiteIcons {
+        margin-left: 35%;
+    }
+
+    footer .responsive_header_logo {
+        width: 90px;
+        height: 50px;
+        margin-left: 40%;
+
+    }
+
+    /* animacia afuchebs dizains da vegar movashore  */
+    .FooterContactText {
+        display: none;
+    }
+
+    .FooterContactInsideContainer {
+        display: inline-block;
+    }
+
+
+    span {
+        width: 40px;
+        height: 40px;
+        padding: 9px 14px 9px 15px;
+    }
+
+    .RemoveSpan {
+        display: none;
+    }
+
+    .ArtSection2 {
+        padding: 64px 24px;
+    }
+
+
+    article {
+        width: 432px;
+    }
+
+    .ArtSection2_image {
+        width: 400px;
+    }
+
+
+
+
+
+}
+
+@media(max-width:634px) {
+    .number-box {
+        margin-inline: 129px;
+    }
+}
+
+@media (max-width:617px) {
+    .home_section1 {
+        margin-top: -5%;
+    }
+
+    .home_section1 {
+        height: 420px;
+    }
+
+    .ArtSec4SearchBox {
+        margin-left: 1%;
+    }
+
+    .ArtSection1 {
+        margin-top: -5%;
+    }
+
+    .ArtSec2Title {
+        font-size: 16px;
+    }
+
+    .ArtSec2Button {
+        padding: 6px 15px 5px 15px;
+        width: 126px;
+    }
+}
+
+@media(max-width:565px) {
+    .ContactSec1Box {
+        width: 432px;
+        height: 400px;
+        padding: 24px 20px;
+        margin-bottom: 49px;
+    }
+
+    .ContactSec1Title {
+        font-size: 32px;
+    }
+
+    .name,
+    .email {
+        width: 120px;
+        padding: 8px 70px 10px 6px;
+        font-size: 8px;
+    }
+
+    textarea {
+        width: 392px;
+        height: 96px;
+        padding: 8px 324px 71px 8px;
+    }
+}
+
+@media (max-width:548px) {
+    .HomeSection3MainBox {
+        margin-inline: 10px;
+
+    }
+
+    .home_section4 {
+        height: 400px;
+    }
+
+    .HomeSec4Title {
+        font-size: 22px;
+
+        margin-left: -12%;
+    }
+
+    .HomeSec4EmailBox {
+        height: 46px;
+        margin-left: -70%;
+
+    }
+
+    .HomeSec4FormBox input {
+        width: 190px;
+        height: 49px;
+        padding: 10px 150px 13px 9px;
+    }
+
+    .HomeSec4FormBox ::placeholder {
+        font-size: 10px;
+    }
+
+    .HomeSec4Button {
+        height: 40;
+        padding: 11px 18px 11px 19px;
+        font-size: 11px;
+    }
+
+    .ArtSec2Title {
+        font-size: 32px;
+    }
+
+    .ArtSec1SearchContainer {
+        gap: 30px;
+        width: 350px;
+    }
+
+    .ArtSec1Button {
+        width: 10%;
+    }
+
+
+}
+
+@media(max-width:511px) {
+    .FooterSiteIcons {
+
+        margin-left: -0.1%;
+
+    }
+}
+
+@media (max-width:481px) {
+    .home_section1 {
+        margin-top: -8%;
+    }
+
+    .ArtSection1 {
+        margin-top: -14%;
+    }
+
+    .ArtSection2 {
+        padding: 40px 20px;
+    }
+
+
+    article {
+        width: 300px;
+    }
+
+    .ArtSection2_image {
+        width: 270px;
+    }
+
+    .ArtSec2Title {
+        font-size: 15px;
+    }
+
+    .ArtSec2Button {
+        width: 90px;
+        padding: 5px 15px;
+        font-size: 15px;
+    }
+
+
+
+    .ContactSec1Box {
+        width: 350px;
+        /* height: 280px; */
+        padding: 20px 15px;
+        margin-bottom: 49px;
+    }
+
+    .ContactSec1Title {
+        font-size: 26px;
+    }
+
+    .name,
+    .email {
+        width: 100px;
+        padding: 8px 70px 10px 6px;
+        font-size: 7px;
+    }
+
+    textarea {
+        width: 300px;
+        height: 60px;
+        padding: 8px 230px 60px 8px;
+    }
+
+    .SubmitButton {
+        width: 100px;
+        height: 56px;
+        padding: 15px;
+        font-size: 12px;
+
+    }
+}
+
+@media(max-width:465px) {
+    .number-box span {
+        width: 40px;
+        height: 40px;
+        padding: 10px;
+
+    }
+}
+
+
+
+@media (max-width:427px) {
+    .home_section2 {
+        padding: 4% 7%;
+    }
+
+    .HomeSec2Image_1 {
+        width: 120px;
+        height: 100px;
+    }
+
+    .HomeSec2Image_2 {
+        width: 120px;
+        height: 100px;
+
+    }
+
+    .HomeSec2Image_3 {
+        width: 120px;
+        height: 100px;
+    }
+
+    .HomeSec2Image_4 {
+        width: 120px;
+        height: 100px;
+    }
+
+    .HomeSection2ImagesBox {
+        margin-top: 30%;
+        gap: 12px;
+    }
+
+    .home_section2 {
+        height: 500px;
+    }
+
+    .HomeSec2Button {
+        padding: 2px 8px;
+        font-size: 12px;
+    }
+}
+
+@media(max-width:415px) {
+    .ArtSec2Title {
+        font-size: 15px;
+        line-height: normal;
+        margin-left: 30%;
+    }
+
+    .ArtSec2TitleBox {
+        gap: 100px;
+        margin-left: -45%;
+    }
+
+    .ArtSec1SearchContainer {
+        gap: 10px;
+        width: 300px;
+    }
+
+    input[type="search"]::placeholder {
+        font-size: 12px;
+        line-height: normal;
+    }
+
+    .ArtSec1Button {
+        width: 5%;
+    }
+}
+
+@media (max-width:402px) {
+    .home_section1 {
+        height: 304px;
+        margin-top: -14%;
+    }
+
+    .HomeSection1Title {
+        font-size: 25px;
+    }
+
+    .HomeSection1Button {
+        width: 140px;
+        height: 30px;
+        padding: 8px 30px;
+        font-size: 10px;
+        margin-top: 0.5%;
+    }
+
+
+
+    .ContactSec1Box {
+        width: 276px;
+        padding: 2px 6px;
+        margin-bottom: 35px;
+    }
+
+    .ContactSec1Title {
+        font-size: 22px;
+    }
+
+    .name,
+    .email {
+        width: 80px;
+        padding: 6px 50px 8px 5px;
+        font-size: 7px;
+    }
+
+    textarea {
+        width: 200px;
+        height: 40px;
+        padding: 8px 260px 60px 8px;
+    }
+
+    .SubmitButton {
+        width: 100px;
+        height: 56px;
+        padding: 15px;
+        font-size: 12px;
+
+    }
+}
+
+@media (max-width:360px) {
+    .ForResponsiveTitle {
+        margin-inline: 10%;
+        font-size: 15px
+    }
+
+    .ArtSec1SearchContainer {
+        gap: 10px;
+        width: 290px;
+    }
+
+    input[type="search"]::placeholder {
+        font-size: 12px;
+        line-height: normal;
+    }
+
+    .ArtSec1Button {
+        width: 5%;
+    }
+
+    .FooterContactText {
+        display: none;
+    }
+
+    .FooterContactInsideContainer {
+        display: inline-block;
+    }
+
+}
+
+
+
+@media (max-width:340px) {
+    .home_section1 {
+        height: 290px;
+    }
+
+    .HomeSection1Title {
+        font-size: 22px;
+    }
+
+    .HomeSection1Button {
+        width: 120px;
+        height: 25px;
+        font-size: 8px;
+        margin-top: 0.5%;
+    }
+}
